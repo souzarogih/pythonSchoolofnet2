@@ -1,0 +1,4 @@
+Flask==2.2.2
+SQLAlchemy==1.4.43
+Flask-SQLAlchemy==3.0.2
+flask-modus=0.0.1
